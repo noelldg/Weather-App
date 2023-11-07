@@ -11,7 +11,12 @@ ul {
 .container {
   width: 100%;
 }
-
+.project-info {
+  text-align: center;
+  margin: 0 auto;
+  font-family: "Assistant", sans-serif;
+  font-size: 12px;
+}
 .weather-box {
   width: 500px;
   max-width: 100%;
